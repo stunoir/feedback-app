@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Feedback UI demo
 
-A GitHub finder in React using data from GitHub API
+Feedback UI - React app
 
 ## Available Scripts
 
